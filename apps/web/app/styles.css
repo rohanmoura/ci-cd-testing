@@ -3,7 +3,7 @@ body { margin: 0; }
 main { max-width: 800px; margin: 0 auto; padding: 18vh 24px; }
 .eyebrow { color: #43d9ad; font-weight: 700; letter-spacing: .18em; }
 h1 { font-size: clamp(2.5rem, 8vw, 5.5rem); line-height: .96; margin: 24px 0; }
-main > p { color: #9eb0c8; font-size: 1.15rem; }
+main > p { color: #020303; font-size: 1.15rem; }
 .services { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 40px; }
 .services span { border: 1px solid #28405d; border-radius: 999px; padding: 10px 16px; }
 section { margin-top: 56px; padding: 24px; border: 1px solid #28405d; border-radius: 18px; background: #0b1829; }

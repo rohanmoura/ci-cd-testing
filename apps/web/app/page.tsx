@@ -50,7 +50,7 @@ export default function Home() {
   return (
     <main>
       <p className="eyebrow">CI/CD LEARNING LABS</p>
-      <h1>Three services. One pipeline. Good to go!</h1>
+      <h1>Three services. One pipelines. Good to go!</h1>
       <div className="services">
         <span>Web · connected</span>
         <span>API · {apiStatus}</span>
