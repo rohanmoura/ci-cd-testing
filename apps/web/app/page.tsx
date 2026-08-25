@@ -49,7 +49,7 @@ export default function Home() {
 
   return (
     <main>
-      <p className="eyebrow">CI/CD LEARNING LAB</p>
+      <p className="eyebrow">CI/CD LEARNING LABS</p>
       <h1>Three services. One pipeline.</h1>
       <div className="services">
         <span>Web · connected</span>
